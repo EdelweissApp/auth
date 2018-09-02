@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="724cd8eb-5ff8-446a-a8d6-9e28455670f6" name="[auth] edelweiss dev" url="http://0.0.0.0">
+        <fileTransfer host="0.0.0.0" port="23" rootFolder="/var/www/auth" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="23" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
